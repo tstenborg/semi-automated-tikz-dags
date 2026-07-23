@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Semi-automated TikZ Directed Acyclic Graphs in R"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/semi-automated-tikz-dags"
+abstract: >-
+  "This repository holds digital assets associated with the article \
+  'Semi-automated TikZ Directed Acyclic Graphs in R'. That article walks \
+  through rendering directed acyclic graphs (DAGs) for LaTeX. An R script \
+  generates DAG rendering code for TikZ, the LaTeX graphics package. The code \
+  is then copied to the system's clipboard, with the intent that users paste \
+  it into a LaTeX document for typesetting."
+keywords:
+  - "directed acyclic graphs"
+  - latex
+  - tikz
+preferred-citation:
+  authors:
+    - given-names: Travis
+      family-names: Stenborg
+  doi: "10.47397/tb/45-1/tb139stenborg-dags"
+  end: 116 # Last page number.
+  issue: 1
+  journal: TUGboat
+  start: 115 # First page number.
+  title: "Semi-automated TikZ directed acyclic graphs in R"
+  type: article
+  volume: 45
+  year: 2024
