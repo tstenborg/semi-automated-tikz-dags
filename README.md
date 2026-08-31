@@ -2,7 +2,7 @@
 
 ![human-only code](https://img.shields.io/badge/human--only-code-white)
 
-This repository holds digital assets associated with the article
+This repository holds digital resources associated with the article
 "Semi-automated Ti*k*Z Directed Acyclic Graphs in R" [[1](#references)]. That
 article walks through rendering directed acyclic graphs (DAGs) for LaTeX. An R
 script generates DAG rendering code for Ti*k*Z, the LaTeX graphics package. The

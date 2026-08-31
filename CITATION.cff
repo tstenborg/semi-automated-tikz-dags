@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-2693-9628"
 url: "https://github.com/tstenborg/semi-automated-tikz-dags"
 abstract: >-
-  "This repository holds digital assets associated with the article \
+  "This repository holds digital resources associated with the article \
   'Semi-automated TikZ Directed Acyclic Graphs in R'. That article walks \
   through rendering directed acyclic graphs (DAGs) for LaTeX. An R script \
   generates DAG rendering code for TikZ, the LaTeX graphics package. The code \
